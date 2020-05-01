@@ -1,4 +1,4 @@
-# CNN-matlab-from-scratch    
+# COVID-19 Detection on Lung Photos Based on CNN    
 
 You can see our final report [here](https://github.com/zhou-1/CNN-matlab-from-scratch/blob/master/Report.md)      
 Here is the link for our presentation: [link here](https://docs.google.com/presentation/d/1_SJeu7i0ZwzBKt9p099ARMiIrgGF_W6Ft1lAWPGFQ4s/edit?usp=sharing)     
