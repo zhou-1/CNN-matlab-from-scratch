@@ -3,6 +3,8 @@
 You can see our final report [here](https://github.com/zhou-1/CNN-matlab-from-scratch/blob/master/Report.md)      
 Here is the link for our presentation: [link here](https://docs.google.com/presentation/d/1_SJeu7i0ZwzBKt9p099ARMiIrgGF_W6Ft1lAWPGFQ4s/edit?usp=sharing)     
 
+[project](imgs/COVID-19_project.PNG)    
+
 ## Why this project    
 Recently, the biggest and the most important thing is obviously the Coronavirus-19 in the world. Based on our team’s thoughts, two things become most important right now: 1.How to avoid getting an infection, people can do actions like WFH, wearing a mask, keeping social distance… immediately; 2.How to recognize Coronavirus cases more accurately.     
 Based on the 2nd idea, our team has an ambitious goal: based on lung photos from suspected  patients, we hope our Machine Learning module can recognize whether the patient has Coronavirus or not. If this works or just helps a little bit, we think it will relieve current medical stress in hospitals.        
